@@ -393,3 +393,8 @@ Check `adb logcat` for debuging.
 To filter only Godot messages use next command:
 `adb logcat -s godot`
 
+# upgrade version
+build.gradle line 3
+
+C:\Users\ditie\projects\games\GodotPlayGamesServices\gradle\wrapper\gradle-wrapper.properties
+distributionUrl=https\://services.gradle.org/distributions/gradle-7.4-all.zip
